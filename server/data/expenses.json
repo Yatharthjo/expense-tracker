@@ -1,0 +1,18 @@
+[
+  {
+    "id": "a4ea0c4e-7ee2-4183-b010-ff46f04fe786",
+    "amount": 200,
+    "category": "Food",
+    "date": "2026-06-05",
+    "note": "",
+    "createdAt": "2026-06-05T18:45:42.935Z"
+  },
+  {
+    "id": "c1b5245e-e255-4ca8-b23d-456196228930",
+    "amount": 500,
+    "category": "Bills",
+    "date": "2026-05-05",
+    "note": "",
+    "createdAt": "2026-06-05T18:47:37.136Z"
+  }
+]
