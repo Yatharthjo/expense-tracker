@@ -12,8 +12,10 @@ A small full-stack expense tracker.
 npm run install:all
 ```
 
-### 2) Start backend
-terminal 1 
+### 2. Start backend
+
+Open **Terminal 1** and run:
+```bash
 cd server
 npm start
 ```
