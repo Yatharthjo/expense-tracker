@@ -52,8 +52,4 @@ This project stores data in `server/data/expenses.json` so it persists across se
 - Authentication / multi-user support
 - Budgeting per category
 - Recurring expenses
-- Pagination for large datasets
-- Better date-range UX (date picker)
 - Add end-to-end UI tests (Playwright)
-- Deployment CI (GitHub Actions)
-
