@@ -18,11 +18,12 @@ cd server
 npm start
 ```
 
-### 3) Start frontend (new terminal)
+### 3)Start frontend (new terminal)
 terminal 2
 cd client
 npm run dev
 ```
+
 Open: **http://localhost:3000**
 
 ## Live Demo
