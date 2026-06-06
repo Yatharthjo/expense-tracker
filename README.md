@@ -13,13 +13,15 @@ npm run install:all
 ```
 
 ### 2) Start backend
-```bash
-npm run dev:server
+terminal 1 
+cd server
+npm start
 ```
 
 ### 3) Start frontend (new terminal)
-```bash
-npm run dev:client
+terminal 2
+cd client
+npm run dev
 ```
 Open: **http://localhost:3000**
 
