@@ -23,6 +23,10 @@ npm run dev:client
 ```
 Open: **http://localhost:3000**
 
+## Live Demo
+- **Frontend**: https://expense-tracker-olf5.vercel.app
+- **Backend**: https://expense-tracker-j35a.onrender.com
+
 ## Run tests
 ```bash
 npm test
